@@ -58,6 +58,53 @@ footer.page-footer {
 }
 
 
+.bleach-container {
+background-color: white;
+width: 100%;
+color: #757575;
+padding: 50px;
+}
+.textcon {
+padding: 50px;
+}
+.h4titlecon {
+padding: 40px;
+color: #212121;
+font-size: 36px;
+}
+
+.features{
+  text-align: center;
+  padding: 30px;  }
+.features:hover{
+background: #2196F3 ;
+color: white;
+     -webkit-transition: .2s ease-out;
+     -webkit-transition-delay: 0.3s;
+     -o-transition: .2s ease-out;
+     -o-transition-delay: 0.2s;
+     -moz-transition: .2s ease-out;
+     -moz-transition-delay: 0.5s;
+     transition: .42 ease-out;
+     transition-delay: 0.5s;
+       box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+}
+.features-icon {
+color: #757575
+}
+.features-icon:hover {
+       -webkit-transition: .2s ease-out;
+     -webkit-transition-delay: 0.3s;
+     -o-transition: .2s ease-out;
+     -o-transition-delay: 0.2s;
+     -moz-transition: .2s ease-out;
+     -moz-transition-delay: 0.5s;
+     transition: .42 ease-out;
+     transition-delay: 0.5s;
+color:#2196F3;
+
+}
+
 /*********************
   TEMPLATE COLORS
 **********************/
