@@ -3587,7 +3587,7 @@ fieldset[disabled] .navbar .navbar-link:focus {
   .top-nav-collapse .navbar-nav > li > a {
     color: #fff;
     transition-duration: 1s;
-    font-size: 20px;
+    font-size: 16px;
   }
 }
 
@@ -3636,7 +3636,8 @@ a {
 
 html {
   line-height: 1.5;
-  font-family: "Roboto",     sans-serif;
+  font-family: "Roboto",
+     sans-serif;
   font-weight: normal;
   color: rgba(0, 0, 0, 0.87);
 }
