@@ -45,7 +45,7 @@ body {
   MAIN IMAGE
 **********************/
 .full-bg-img {  
-    background: url("http://mdbootstrap.com/images/reg-dark/reg%20(4).jpg") no-repeat center center fixed;  
+    background: url("../img/bg-image.jpg") no-repeat center center fixed;  
     -webkit-background-size: cover;
     -moz-background-size: cover;
     -o-background-size: cover;

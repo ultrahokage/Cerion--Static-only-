@@ -1,25 +1,12 @@
-Material Design for Bootstrap
+Template: Cerion (MDBootstrap)
+Author name: EnCLARY
+Profile: https://github.com/enclary
 
-Version: MDB Free 4.2.0
+Frameworks: MDB Free 4.2.0(mdbootstrap.com)
 
-Documentation:
-http://mdbootstrap.com/
 
-Getting started:
-http://mdbootstrap.com/getting-started/
 
-Tutorials:
-MDB-Bootstrap: http://mdbootstrap.com/bootstrap-tutorial/
-MDB-Wordpress: http://mdbootstrap.com/wordpress-tutorial/
 
-Templates:
-http://mdbootstrap.com/templates/
+_____________________
 
-License:
-http://mdbootstrap.com/license/
-
-Support:
-http://mdbootstrap.com/forums/forum/support/
-
-Contact:
-office@mdbootstrap.com
+Many of the images found freely available, if you are the owner of this image please contact us in mail: theclaryam@gmail.com
