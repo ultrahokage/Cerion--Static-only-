@@ -57,6 +57,8 @@ footer.page-footer {
     margin-top: -20px;
 }
 
+/** Features **/
+
 
 .bleach-container {
 background-color: white;
@@ -89,6 +91,10 @@ color: white;
      transition-delay: 0.5s;
        box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
 }
+.features-cont {
+
+  
+}
 .features-icon {
 color: #757575
 }
@@ -104,6 +110,81 @@ color: #757575
 color:#2196F3;
 
 }
+
+/** Features **/
+
+/** Testimonial Slider **/
+.testiminial-panel {
+width: 100%;
+background: #2196F3;
+color: white;
+
+}
+
+.quote-carousel {
+    padding: 0 5px 15px 5px;
+    margin-top: 10px;
+}
+#quote-carousel .carousel-control {
+    background: none;
+    color: white;
+    font-size: 2.3em;
+    text-shadow: none;
+    margin-top: 10px;
+}
+#quote-carousel .carousel-control.left {
+    left: -60px;
+}
+#quote-carousel .carousel-control.right {
+    right: -60px;
+}
+#quote-carousel .carousel-indicators {
+    right: 50%;
+    bottom: 0px;
+    margin-top: 50%;
+}
+#quote-carousel .carousel-indicators li {
+
+    width: 50px;
+    height: 50px;
+    margin: 5px;
+    cursor: pointer;
+    border: 2px solid #CCC;
+    border-radius: 50px;
+    opacity: 0.4;
+    overflow: hidden;
+    transition: all 0.4s;
+    box-shadow: 0 3px 6px rgba(0,0,0,0.16), 0 3px 6px rgba(0,0,0,0.23);
+}
+#quote-carousel .carousel-indicators .active {
+    background: white;
+    width: 66px;
+    height: 66px;
+    border-radius: 50px;
+    border-color: white;
+    opacity: 1;
+    overflow: hidden;
+    box-shadow: 0 14px 28px rgba(0,0,0,0.25), 0 10px 10px rgba(0,0,0,0.22);
+    transition: all 0.3s cubic-bezier(.25,.8,.25,1);
+}
+.carousel-inner {
+    min-height: 300px;
+}
+.item blockquote {
+    border-left: none;
+    margin: 0;
+}
+.item blockquote p:before {
+    content: "\f10d";
+    font-family: 'Fontawesome';
+    float: left;
+    margin-right: 10px;
+}
+/** Testimonial Slider**/
+
+
+
+
 
 /*********************
   TEMPLATE COLORS
@@ -168,10 +249,43 @@ color:#2196F3;
   background-color: #DD4B39;
 }
 
+
+/** Social Icons  **/
+.social-icon {
+  padding: 15px;
+color: white;
+       -webkit-transition: .2s ease-out;
+     -webkit-transition-delay: 0.3s;
+     -o-transition: .2s ease-out;
+     -o-transition-delay: 0.2s;
+     -moz-transition: .2s ease-out;
+     -moz-transition-delay: 0.5s;
+     transition: .42 ease-out;
+     transition-delay: 0.5s;
+}
+.facebook-icon {
+
+}
+.facebook-icon:hover {
+color: #3b5998;
+}
+.twitter-icon:hover {
+color: #00aced;
+}
+.dribbble-icon:hover {
+color: hotpink;
+
+}
+/** Social Icons  **/
+
+
+
+
+
 /*********************
   FOOTER
 **********************/
 footer.page-footer {
   margin-top: 0;
-  background-color: #2196F3;
+  background: #2196F3;
 }
