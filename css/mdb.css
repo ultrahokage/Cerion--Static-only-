@@ -8768,7 +8768,7 @@ a.waves-effect .waves-ripple {
 }
 
 .divider-short {
-  max-width: 50px;
-  border-color: #CC0000;
-  border-width: 3px;
+  max-width: 200px;
+  border-color: #2196F3;
+  border-width: 2px;
 }
